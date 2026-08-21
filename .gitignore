@@ -15,3 +15,6 @@ __pycache__/
 *.pyc
 out/products.csv
 out/shop.csv
+
+# Timeseries large uncompressed CSV (reproducible via generate_timeseries.py, exceeds GitHub 100MB limit)
+out/market_timeseries_30d.csv
