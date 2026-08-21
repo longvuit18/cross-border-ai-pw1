@@ -1,0 +1,32 @@
+{
+  "count": 3,
+  "results": [
+    {
+      "listing_id": 1001,
+      "shop_id": 501,
+      "title": "Personalized Christmas Ornament",
+      "url": "https://www.etsy.com/listing/1001/personalized-christmas-ornament",
+      "price": {
+        "amount": 1999,
+        "divisor": 100,
+        "currency_code": "USD"
+      },
+      "quantity": 10,
+      "tags": ["christmas", "ornament", "personalized"]
+    },
+    {
+      "listing_id": 1002,
+      "shop_id": 502,
+      "title": "Pet Memorial Ornament",
+      "url": "https://www.etsy.com/listing/1002/pet-memorial-ornament",
+      "price": {
+        "amount": 2450,
+        "divisor": 100,
+        "currency_code": "USD"
+      },
+      "quantity": 4,
+      "tags": ["pet", "memorial", "ornament"]
+    }
+  ]
+}
+

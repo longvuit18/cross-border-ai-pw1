@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pw1-rd-intelligence"
+version = "0.1.0"
+description = "Crawler foundation for the PW1 R&D Market Intelligence Agent"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28,<0.29",
+    "streamlit>=1.54,<2",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest>=8.3,<9",
+    "pytest-asyncio>=0.24,<1",
+]
+
+[project.scripts]
+pw1-etsy = "backend.cli.etsy:main"
+pw1-etsy-details = "backend.cli.etsy_details:main"
+pw1-etsy-firecrawl = "backend.cli.etsy_firecrawl:main"
+pw1-firecrawl = "backend.cli.firecrawl:main"
+pw1-normalize = "backend.cli.normalize:main"
+pw1-printway = "backend.cli.printway:main"
+pw1-workers = "backend.cli.workers:main"
+
+[tool.setuptools.packages.find]
+include = ["backend*"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+pythonpath = ["."]
+markers = [
+    "live: calls a real external API and requires credentials",
+]
+testpaths = ["tests"]

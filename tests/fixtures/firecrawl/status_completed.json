@@ -1,0 +1,26 @@
+{
+  "status": "completed",
+  "total": 2,
+  "completed": 2,
+  "creditsUsed": 2,
+  "next": null,
+  "data": [
+    {
+      "markdown": "# Example",
+      "metadata": {
+        "title": "Example Domain",
+        "sourceURL": "https://example.com/",
+        "statusCode": 200
+      }
+    },
+    {
+      "markdown": "# About",
+      "metadata": {
+        "title": "About Example",
+        "sourceURL": "https://example.com/about",
+        "statusCode": 200
+      }
+    }
+  ]
+}
+

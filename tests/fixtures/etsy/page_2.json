@@ -1,0 +1,19 @@
+{
+  "count": 3,
+  "results": [
+    {
+      "listing_id": 1003,
+      "shop_id": 503,
+      "title": "Baby First Christmas Ornament",
+      "url": "https://www.etsy.com/listing/1003/baby-first-christmas-ornament",
+      "price": {
+        "amount": 1795,
+        "divisor": 100,
+        "currency_code": "USD"
+      },
+      "quantity": 7,
+      "tags": ["baby", "first christmas", "ornament"]
+    }
+  ]
+}
+
