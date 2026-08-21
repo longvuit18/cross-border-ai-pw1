@@ -1,0 +1,17 @@
+# secret - TUYET DOI khong commit
+.env
+.env.*
+!.env.example
+
+# du lieu tho / trung gian, khong day len repo
+out/raw/
+out/md/
+out/*.json
+out/*.log
+out/_credits_before.txt
+out/smoke*.csv
+
+__pycache__/
+*.pyc
+out/products.csv
+out/shop.csv

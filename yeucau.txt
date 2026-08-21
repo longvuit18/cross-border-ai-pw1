@@ -1,0 +1,4 @@
+Bài toán:
+- Dùng firecrawl để crawl dữ liệu từ 2 nguồn: amazone và esty 
+- Kết hợp với các thông tin trong knowledge của  printway-catalog(https://printway.io/vi/all-products) để giải quyết bài toán với output sau:
+Một hub/dashboard mà người R&D non-tech trả lời được 6 câu hỏi: nên phát triển sản phẩm gì; sản phẩm nào đang có cơ hội tăng trưởng; niche nào còn ít cạnh tranh; thiết kế nào đang được yêu thích; sản phẩm có phù hợp năng lực sản xuất không; nếu launch ngay bây giờ khả năng thành công cao hay thấp. Kèm Opportunity Score có breakdown từng chiều + report tự sinh (export PDF/Markdown). (Bonus) cảnh báo xu hướng mới nổi sớm, Design Insight (top colors / quotes / personalization / themes), Competitor Tracker.
