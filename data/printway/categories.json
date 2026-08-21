@@ -1,0 +1,1474 @@
+{
+  "category_tree": [
+    {
+      "_id": "666c1b1ab4a70bbdaff3f540",
+      "name": "Kid's Clothing",
+      "slug": "kids-clothing",
+      "status": "active",
+      "image": "https://cdn.printway.io/lzi/666c1b083dea86065a84db98_800x800.jpeg",
+      "subCategories": [
+        "666c1f1195f58b8981883d94",
+        "666c1bbaf1c59c08988892f3",
+        "666c1c43c2d3c3a1f2cf4df6",
+        "666c1fca75ea7273874fa1e9",
+        "666c1cedf1c59c089888960f",
+        "6a084805a5e12e4a5756ba59",
+        "6a293be04c58e216f310536d"
+      ],
+      "productTypes": [
+        "6a05a5a9b3c447f188b9083e"
+      ],
+      "parentId": null,
+      "description": "Create and sell custom kid's clothing effortlessly. Choose from a wide selection of adorable outfits, enjoy worldwide shipping, and no minimum orders are required.",
+      "isDeleted": false,
+      "isDisplay": true,
+      "shortDescription": "&lt;p>&lt;a href=\"https://printway.io/product-category/kids-clothing\">&lt;strong>Print-on-demand kid's clothing&lt;/strong>&lt;/a>&lt;strong> &lt;/strong>is a rapidly growing market, offering endless possibilities for sellers to provide unique and personalized apparel for children. With the ability to create custom designs, sellers can cater to a wide array of customer preferences, making it an attractive business model for entrepreneurs.&lt;/p>&lt;h2>&lt;strong>Types of &lt;/strong>&lt;a href=\"https://printway.io/product-category/kids-clothing\">&lt;strong>Print-on-Demand Kid's Clothing&lt;/strong>&lt;/a>&lt;strong> at Printway&lt;/strong>&lt;/h2>&lt;p>Printway offers a wide range of print-on-demand kid's clothing, ensuring sellers can cater to diverse customer preferences. Here are some of the top product categories available:&lt;/p>&lt;ul>&lt;li>&lt;a href=\"https://printway.io/product-category/kids-clothing/kids-t-shirts\">&lt;strong>Kid's T-Shirts&lt;/strong>&lt;/a>: High-quality, comfortable, and available in various styles and colors, perfect for everyday wear and customizable with fun and unique designs.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/kids-clothing/kids-hoodies\">&lt;strong>Kid's Hoodies&lt;/strong>&lt;/a>: Cozy and stylish, our kid's hoodies are made from soft, durable fabric and can be personalized with any design, making them ideal for cooler weather.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/kids-clothing/kids-sweatshirts\">&lt;strong>Kid's Sweatshirts&lt;/strong>&lt;/a>: Offering warmth and comfort, our kid's sweatshirts come in various sizes and colors, and can be customized to fit any occasion or style.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/kids-clothing/baby-bodysuits\">&lt;strong>Kid's Onesies:&lt;/strong>&lt;/a> Ideal for infants and toddlers, our onesies are made from soft, breathable fabric and can be personalized with cute and adorable designs.&lt;/li>&lt;/ul>&lt;h2>&lt;strong>Benefits of Using Printway for Print-on-Demand Kid's Clothing&lt;/strong>&lt;/h2>&lt;p>Selling print-on-demand kid's clothing with Printway comes with numerous advantages that make it an attractive option for entrepreneurs. Here’s why you should choose Printway:&lt;/p>&lt;ul>&lt;li>&lt;strong>No Inventory Management&lt;/strong>: Eliminate the need for inventory storage and management, reducing overhead costs and risks.&lt;/li>&lt;li>&lt;strong>Hassle-Free Shipping&lt;/strong>: Printway handles all aspects of shipping, ensuring timely and reliable delivery to customers.&lt;/li>&lt;li>&lt;strong>High-Quality Products&lt;/strong>: Access to a wide range of high-quality, customizable kid's clothing items that cater to diverse customer preferences.&lt;/li>&lt;li>&lt;strong>Ease of Start-Up&lt;/strong>: Simple and quick to start your business without significant upfront investment.&lt;/li>&lt;li>&lt;strong>Scalability&lt;/strong>: Easily scale your business as demand grows, without worrying about production capacity.&lt;/li>&lt;li>&lt;strong>Custom Branding&lt;/strong>: Enhance your brand’s professional appearance with custom branding and packaging options.&lt;/li>&lt;/ul>&lt;h2>&lt;strong>Kickstart Your Print-on-Demand Kid's Clothing Business&lt;/strong>&lt;/h2>&lt;p>Starting your print-on-demand kid's clothing store with &lt;a href=\"https://printway.io/\">Printway&lt;/a> is easy and straightforward. Follow these three simple steps to get started:&lt;/p>&lt;p>&lt;strong>Choose and Design Your Products&lt;/strong>:&lt;/p>&lt;ul>&lt;li>Browse through the wide range of kid's clothing options available on Printway.&lt;/li>&lt;li>Follow Printway's guidelines to create printing files and image mockups&lt;/li>&lt;li>Customize each item to fit your brand’s style and your target audience’s preferences.&lt;/li>&lt;/ul>&lt;p>&lt;strong>Upload Your Designs to Your Selling Platform&lt;/strong>:&lt;/p>&lt;ul>&lt;li>Select your preferred online selling platform (such as Etsy, Shopify, or Amazon).&lt;/li>&lt;li>Create listings for each of your designed products, including high-quality images and detailed descriptions.&lt;/li>&lt;li>Optimize your product listings with relevant keywords to improve visibility and attract potential customers.&lt;/li>&lt;/ul>&lt;p>&lt;strong>Fulfill Your Orders with Printway&lt;/strong>:&lt;/p>&lt;ul>&lt;li>When an order is placed, Printway will handle the production, printing, and shipping of the product.&lt;/li>&lt;li>Track your orders and stay updated with real-time notifications on the status of each order.&lt;/li>&lt;li>Focus on marketing and growing your business while Printway takes care of the logistics.&lt;/li>&lt;/ul>",
+      "totalProductType": 23
+    },
+    {
+      "_id": "666c0f3eb4a70bbdaff3d05d",
+      "name": "Women's Clothing",
+      "slug": "womens-clothing",
+      "status": "active",
+      "image": "https://cdn.printway.io/lzi/666c0e896f96e33ccef7c815_800x800.jpeg",
+      "subCategories": [
+        "666c19f4ea944079618dd0a7",
+        "666c1584b4a70bbdaff3e16c",
+        "666c136c2bf5c24f3bc4b6b5",
+        "666c1522b4a70bbdaff3dfbd",
+        "666c1974f1c59c0898888eb1",
+        "666c1a68c2d3c3a1f2cf4adc",
+        "666c1850ea944079618dcccf",
+        "666c105575ea7273874f71ca",
+        "6a084dacd94dd74ddc931946",
+        "6a27714ebfc65eb02b80a1a0"
+      ],
+      "productTypes": [],
+      "parentId": null,
+      "description": "Design and sell print-on-demand women's clothing  with Printway.  Extensive personalisable women's apparel range from T-shirt, Hoodie, Dresses and Jackets. Start now with no upfront cost.",
+      "isDeleted": false,
+      "isDisplay": true,
+      "shortDescription": "&lt;p>Selling &lt;a href=\"https://printway.io/product-category/womens-clothing\">&lt;strong>print-on-demand women's clothing&lt;/strong>&lt;/a>&lt;strong> &lt;/strong>is an excellent choice for entrepreneurs looking to enter the fashion market without the hassle of inventory, stock orders, and logistics. With Printway's print-on-demand service, sellers can offer a wide range of stylish and customizable women's apparel, meeting diverse customer preferences.&lt;/p>&lt;h2>&lt;strong>What &lt;/strong>&lt;a href=\"https://printway.io/product-category/womens-clothing\">&lt;strong>print-on-demand women's clothing&lt;/strong>&lt;/a>&lt;strong> does Printway offer?&lt;/strong>&lt;/h2>&lt;p>What print-on-demand women's clothing does Printway offer? At Printway, we provide a diverse selection of women's apparel to suit every style:&lt;/p>&lt;ul>&lt;li>&lt;a href=\"https://printway.io/product-category/womens-clothing/womens-t-shirts\">&lt;strong>Women's T-Shirts:&lt;/strong>&lt;/a> Made from soft, breathable cotton and available in various cuts and colors, perfect for everyday wear and is customizable with unique designs.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/womens-clothing/womens-tank-tops\">&lt;strong>Women's Tank Tops&lt;/strong>&lt;/a>: Crafted from lightweight, moisture-wicking fabric, ideal for warm weather and active lifestyles, offering both comfort and style with personalized prints.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/womens-clothing/dresses\">&lt;strong>Women's Dresses&lt;/strong>&lt;/a>: Featuring a range of styles from casual to formal, our dresses are made with high-quality materials and vibrant prints, perfect for any occasion.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/womens-clothing/womens-sweatshirts\">&lt;strong>Sweatshirts&lt;/strong>&lt;/a>: Designed for cozy warmth, our sweatshirts are made from soft fleece and can be personalized with unique designs to stand out in the cold season.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/womens-clothing/womens-hoodies\">&lt;strong>Hoodies&lt;/strong>&lt;/a>: Offering both comfort and a fashionable look, our hoodies are crafted from durable, soft fabric, with customizable options for a personalized touch.&lt;/li>&lt;/ul>&lt;h2>&lt;strong>Why choose Printway to sell print-on-demand women's clothing?&lt;/strong>&lt;/h2>&lt;p>Selling print-on-demand women's clothing with Printway comes with numerous advantages that make it an attractive option for entrepreneurs. Here’s why you should choose Printway:&lt;/p>&lt;ul>&lt;li>&lt;strong>No Inventory Management&lt;/strong>: Eliminate the need for inventory storage and management, reducing overhead costs and risks.&lt;/li>&lt;li>&lt;strong>Hassle-Free Shipping&lt;/strong>: Printway handles all aspects of shipping, ensuring timely and reliable delivery to customers.&lt;/li>&lt;li>&lt;strong>High-Quality Products&lt;/strong>: Access to a wide range of high-quality, customizable men's clothing items that cater to diverse customer preferences.&lt;/li>&lt;li>&lt;strong>Ease of Start-Up&lt;/strong>: Simple and quick to start your business without significant upfront investment.&lt;/li>&lt;li>&lt;strong>Scalability&lt;/strong>: Easily scale your business as demand grows, without worrying about production capacity.&lt;/li>&lt;li>&lt;strong>Custom Branding&lt;/strong>: Enhance your brand’s professional appearance with custom branding and packaging options.&lt;/li>&lt;/ul>&lt;h2>&lt;strong>Step-by-step guide to start print-on-demand women's clothing&lt;/strong>&lt;/h2>&lt;p>Printway handles production and shipping, ensuring high-quality products and timely delivery. Embrace the flexibility and ease of selling print-on-demand women's clothing with Printway and grow your fashion business effortlessly.&lt;/p>&lt;p>Here are the detailed steps for you to follow if you want to fulfill with Printway:&lt;/p>&lt;p>&lt;strong>Choose and Design Your Products&lt;/strong>:&lt;/p>&lt;ul>&lt;li>Browse through the wide range of women's clothing options available on Printway.&lt;/li>&lt;li>Use Printway’s printing files and image images to create unique, eye-catching designs for your products.&lt;/li>&lt;li>Customize each item to fit your brand’s style and your target audience’s preferences.&lt;/li>&lt;/ul>&lt;p>&lt;strong>Upload Your Designs to Your Selling Platform&lt;/strong>:&lt;/p>&lt;ul>&lt;li>Select your preferred online selling platform (such as Etsy, Shopify, or Amazon).&lt;/li>&lt;li>Create listings for each of your designed products, including high-quality images and detailed descriptions.&lt;/li>&lt;li>Optimize your product listings with relevant keywords to improve visibility and attract potential customers.&lt;/li>&lt;/ul>&lt;p>&lt;strong>Fulfill Your Orders with Printway&lt;/strong>:&lt;/p>&lt;ul>&lt;li>When an order is placed, Printway will handle the production, printing, and shipping of the product.&lt;/li>&lt;li>Track your orders and stay updated with real-time notifications on the status of each order.&lt;/li>&lt;li>Focus on marketing and growing your business while Printway takes care of the logistics.&lt;/li>&lt;/ul>",
+      "totalProductType": 48
+    },
+    {
+      "_id": "68ccdf43518d16677803d8bc",
+      "name": "Materials",
+      "aliasName": "Materials",
+      "slug": "materials",
+      "status": "active",
+      "image": "https://cdn.printway.io/lzi/68ccdedc5b1f5719079149ff_800x800.jpg",
+      "subCategories": [
+        "68cce36409d6c36df5716bf1",
+        "68ccfb8ef104449ccef7a196",
+        "68cce25e9480646fe85fb1c5",
+        "68ccfad0927e38df41296a54",
+        "68ccff62518d166778063883",
+        "68cd00521e86988c19a178f2",
+        "68cd018b9480646fe8615733",
+        "68cd0423927e38df412a5819"
+      ],
+      "productTypes": [],
+      "parentId": null,
+      "shortDescription": "&lt;p>Bring your designs to life on a wide range of premium materials. Printway offers high-quality printing on &lt;strong>wood, acrylic, metal, leather, ceramic, and glass&lt;/strong>, giving you endless possibilities to create unique, durable, and market-ready products for your store.&lt;/p>",
+      "isDeleted": false,
+      "isDisplay": true,
+      "totalProductType": 116
+    },
+    {
+      "_id": "666c00f42bf5c24f3bc46a99",
+      "name": "Men's Clothing",
+      "slug": "mens-clothing",
+      "status": "active",
+      "image": "https://cdn.printway.io/lzi/666c00e33dea86065a84db26_800x800.jpeg",
+      "subCategories": [
+        "666c07612bf5c24f3bc48ab9",
+        "666c0822ea944079618d91c0",
+        "666c0907c2d3c3a1f2cf0c0e",
+        "666c099ff1c59c0898885755",
+        "666c0a0fb4a70bbdaff3b5e7",
+        "666c0b8895f58b898187e654",
+        "666c0c46f1c59c0898886562",
+        "666c0ae32bf5c24f3bc4994c",
+        "6a08374d2f2ac7dd60d38815",
+        "6a0838222f2ac7dd60d3898c"
+      ],
+      "productTypes": [],
+      "parentId": null,
+      "description": "Discover custom print-on-demand men's clothing at Printway. Personalize shirts, hoodies, and more with high-quality prints and fast fulfillment. Fulfill now",
+      "isDeleted": false,
+      "isDisplay": true,
+      "shortDescription": "&lt;p>&lt;a href=\"https://printway.io/product-category/mens-clothing\">&lt;strong>Print-on-demand men's clothing &lt;/strong>&lt;/a>is an exciting and lucrative market, offering endless possibilities for sellers to provide unique and personalized apparel. With the ability to create custom designs, sellers can cater to a wide array of customer preferences, making it an attractive business model for entrepreneurs.&lt;/p>&lt;p>The potential for print-on-demand men's clothing is enormous, driven by the increasing consumer demand for personalized and unique clothing options.&lt;/p>&lt;h2>&lt;strong>Types of &lt;/strong>&lt;a href=\"https://printway.io/product-category/mens-clothing\">&lt;strong>Print-on-Demand Men's Clothing&lt;/strong>&lt;/a>&lt;strong> on Printway&lt;/strong>&lt;/h2>&lt;p>Printway offers a wide range of print-on-demand men's clothing, ensuring sellers can cater to diverse customer preferences. Here are some of the top product categories available:&lt;/p>&lt;ul>&lt;li>&lt;a href=\"https://printway.io/product-category/mens-clothing/t-shirts\">&lt;strong>T-Shirts&lt;/strong>&lt;/a>: High-quality, comfortable, and available in various styles and colors, perfect for everyday wear and customizable with unique designs.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/mens-clothing/hoodies\">&lt;strong>Hoodies&lt;/strong>&lt;/a>: Stylish and cozy, our hoodies are made from soft, durable fabric and can be personalized with any design, making them ideal for cooler weather.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/mens-clothing/sweatshirts\">&lt;strong>Sweatshirts&lt;/strong>&lt;/a>: Offering warmth and comfort, our sweatshirts come in various sizes and colors, and can be customized to fit any occasion or style.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/mens-clothing/tank-tops\">&lt;strong>Tank Tops&lt;/strong>&lt;/a>: Ideal for warm weather and active lifestyles, our tank tops are made from lightweight, breathable fabric and can be personalized with any design.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/mens-clothing/jackets-and-coats\">&lt;strong>Jackets&lt;/strong>&lt;/a>: Durable and stylish, our jackets are perfect for layering and can be customized with unique prints, logos, or messages.&lt;/li>&lt;/ul>&lt;h2>&lt;strong>Why Should You Sell Print-on-Demand Men's Clothing with Printway&lt;/strong>&lt;/h2>&lt;p>Selling print-on-demand men's clothing with Printway comes with numerous advantages that make it an attractive option for entrepreneurs. Here’s why you should choose Printway:&lt;/p>&lt;ul>&lt;li>&lt;strong>No Inventory Management&lt;/strong>: Eliminate the need for inventory storage and management, reducing overhead costs and risks.&lt;/li>&lt;li>&lt;strong>Hassle-Free Shipping&lt;/strong>: Printway handles all aspects of shipping, ensuring timely and reliable delivery to customers.&lt;/li>&lt;li>&lt;strong>High-Quality Products&lt;/strong>: Access to a wide range of high-quality, customizable men's clothing items that cater to diverse customer preferences.&lt;/li>&lt;li>&lt;strong>Ease of Start-Up&lt;/strong>: Simple and quick to start your business without significant upfront investment.&lt;/li>&lt;li>&lt;strong>Scalability&lt;/strong>: Easily scale your business as demand grows, without worrying about production capacity.&lt;/li>&lt;li>&lt;strong>Custom Branding&lt;/strong>: Enhance your brand’s professional appearance with custom branding and packaging options.&lt;/li>&lt;/ul>&lt;h2>&lt;strong>3 Steps to Starting Your Print-on-Demand Men's Clothing Store&lt;/strong>&lt;/h2>&lt;p>Starting your print-on-demand men's clothing store with Printway is easy and straightforward. Follow these three simple steps to get started:&lt;/p>&lt;p>&lt;strong>Choose and Design Your Products&lt;/strong>:&lt;/p>&lt;ul>&lt;li>Browse through the wide range of men's clothing options available on Printway.&lt;/li>&lt;li>Use Printway’s printing files and image images to create unique, eye-catching designs for your products.&lt;/li>&lt;li>Customize each item to fit your brand’s style and your target audience’s preferences.&lt;/li>&lt;/ul>&lt;p>&lt;strong>Upload Your Designs to Your Selling Platform&lt;/strong>:&lt;/p>&lt;ul>&lt;li>Select your preferred online selling platform (such as Etsy, Shopify, or Amazon).&lt;/li>&lt;li>Create listings for each of your designed products, including high-quality images and detailed descriptions.&lt;/li>&lt;li>Optimize your product listings with relevant keywords to improve visibility and attract potential customers.&lt;/li>&lt;/ul>&lt;p>&lt;strong>Fulfill Your Orders with Printway&lt;/strong>:&lt;/p>&lt;ul>&lt;li>When an order is placed, Printway will handle the production, printing, and shipping of the product.&lt;/li>&lt;li>Track your orders and stay updated with real-time notifications on the status of each order.&lt;/li>&lt;li>Focus on marketing and growing your business while Printway takes care of the logistics.&lt;/li>&lt;/ul>&lt;p>By leveraging the benefits and support provided by Printway, you can successfully launch and grow your print-on-demand men's clothing business, tapping into a lucrative and expanding market.&lt;/p>",
+      "totalProductType": 65
+    },
+    {
+      "_id": "666bf8b2c2d3c3a1f2cec5cf",
+      "name": "Accessories",
+      "slug": "accessories",
+      "status": "active",
+      "image": "https://cdn.printway.io/lzi/666bf7e8e9f8ecbc0656be49_800x800.jpeg",
+      "subCategories": [
+        "666bfaa095f58b8981878f33",
+        "666bfb14c2d3c3a1f2ced070",
+        "666bfc86ea944079618d5959",
+        "666bfd2fea944079618d5bc9",
+        "666bfdf4c2d3c3a1f2cedd11",
+        "666bfedd2bf5c24f3bc46394",
+        "666c0034ea944079618d6af2",
+        "666c2127f1c59c0898889ecd",
+        "666bf9e72bf5c24f3bc44bf2",
+        "666c0d8cb4a70bbdaff3c8f5",
+        "6683603a8973de81c096a878",
+        "667933f4a49d4478e2faa050",
+        "666bf95a2bf5c24f3bc449dd",
+        "66c8394d865a7fa48c42ea8d",
+        "6a0af0e9e8206824e2d705ce"
+      ],
+      "productTypes": [
+        "6a44f0887e5cf7a77161a0cf"
+      ],
+      "parentId": null,
+      "description": "Discover versatile print-on-demand accessories at Printway. Personalize and enjoy high-quality fulfillment for unique items that fit your style. Explore our collection now!",
+      "isDeleted": false,
+      "isDisplay": true,
+      "shortDescription": "&lt;p>&lt;a href=\"https://printway.io/product-category/accessories\">&lt;strong>Print-on-demand accessories &lt;/strong>&lt;/a>are a lucrative opportunity for sellers looking to tap into a growing market without the hassle of managing inventory or handling shipping logistics. At Printway, we make it easy to start your print-on-demand business, offering a wide range of customizable accessories such as phone cases, hats, and keychains.&lt;/p>&lt;p>With the rising demand for unique, personalized items, sellers can meet customer needs without the burden of stocking products. Printway handles all aspects of production and shipping, allowing you to focus on designing and marketing your products. Join Printway to effortlessly expand your business and capitalize on the booming print-on-demand accessories market.&lt;/p>&lt;h2>&lt;strong>Top-selling print-on-demand accessories&lt;/strong>&lt;/h2>&lt;p>Printway provides a diverse range of customizable products that cater to various customer needs and preferences. Here are some of the top-selling print-on-demand accessories:&lt;/p>&lt;ul>&lt;li>&lt;a href=\"https://printway.io/product-category/accessories/car-accessories\">&lt;strong>Custom Sun Visor Clip&lt;/strong>&lt;/a>: A practical accessory for cars, easily customizable with unique designs, logos, or messages, perfect for personal use or promotional gifts.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/accessories/keychains\">&lt;strong>Keychains&lt;/strong>&lt;/a>: Available in various shapes and materials, keychains can be personalized with names, images, or quotes, making them a popular and versatile accessory.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/accessories/bags\">&lt;strong>Bags&lt;/strong>&lt;/a>: From personalized rattan bags to backpacks, our bags are made from high-quality materials and offer ample space for custom prints, ideal for everyday use or special events.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/accessories/bookmarks\">&lt;strong>Bookmarks&lt;/strong>&lt;/a>: Made from durable materials, our bookmarks can be customized with inspirational quotes, artwork, or branding, perfect for book lovers and promotional giveaways.&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/accessories/phone-cases\">&lt;strong>Phone Cases&lt;/strong>&lt;/a>: Designed to fit a variety of phone models, our cases can be personalized with photos, patterns, or text, providing both protection and a stylish look.&lt;/li>&lt;li>Printway’s print-on-demand accessories offer high-quality, customizable options that appeal to a broad audience, making them top-selling products in the market.&lt;/li>&lt;/ul>&lt;h2>&lt;strong>Advantages of selling print-on-demand accessories with Printway&lt;/strong>&lt;/h2>&lt;p>Selling print-on-demand accessories with Printway offers numerous advantages for sellers. Here are some key benefits:&lt;/p>&lt;ul>&lt;li>&lt;strong>No Inventory Management&lt;/strong>: No need to stock products or manage inventory, reducing overhead costs and risks.&lt;/li>&lt;li>&lt;strong>Hassle-Free Shipping&lt;/strong>: Printway handles all aspects of shipping, ensuring timely and reliable delivery to customers.&lt;/li>&lt;li>&lt;strong>High-Quality Products&lt;/strong>: Access to a wide range of high-quality, customizable accessories that cater to diverse customer preferences.&lt;/li>&lt;li>&lt;strong>Ease of Start-Up&lt;/strong>: Simple and quick to start your business without significant upfront investment.&lt;/li>&lt;li>&lt;strong>Scalability&lt;/strong>: Ability to easily scale your business as demand grows, without worrying about production capacity.&lt;/li>&lt;li>With Printway, you can focus on designing and marketing your products while we take care of the rest.&lt;/li>&lt;/ul>&lt;h2>&lt;strong>Expand your accessories business with Printway&lt;/strong>&lt;/h2>&lt;p>With our wide variety of products and a seamless fulfillment system, sellers can free their minds in managing the storage and the fulfillment process. Here's how you can start your accessories business with Printway:&lt;/p>&lt;p>Choose your products and create a design: Choose products from our list and follow our guidelines to complete printing files and image mockups.&lt;/p>&lt;p>Upload the design on your selling platform and start selling: Once your designs are ready, upload them to your selling platforms.&lt;/p>&lt;p>Complete the fulfillment process: After a customer places an order, Printway will take care of printing, packaging, and shipping.&lt;/p>",
+      "totalProductType": 256
+    },
+    {
+      "_id": "666bc64cb4a70bbdaff2e49f",
+      "name": "Home and Living",
+      "slug": "home-and-living",
+      "status": "active",
+      "image": "https://cdn.printway.io/lzi/666bc61b7ecd3a7dbd7c4624_800x800.jpeg",
+      "subCategories": [
+        "666beebb95f58b8981875200",
+        "666bc760c2d3c3a1f2ce4c22",
+        "666beb8175ea7273874ed607",
+        "666bec15b4a70bbdaff32fd1",
+        "666beccd95f58b8981874a4c",
+        "666bef6375ea7273874ee4f0",
+        "666bf0492bf5c24f3bc4233a",
+        "666bf1992bf5c24f3bc42867",
+        "666bf289c2d3c3a1f2ceace7",
+        "666bf46675ea7273874ef893",
+        "666bf64eb4a70bbdaff364d4",
+        "66792ac9a49d4478e2fa7843",
+        "666c2380ea944079618dec10",
+        "692412cf5628386d8832aa6f",
+        "666bea54ea944079618d0b7a",
+        "692413d35628386d883316ca",
+        "6924142c9986a2e9f44351a8",
+        "6924154da1de5569b21bfeaf",
+        "6924158e5628386d883383ec",
+        "692415f34544a865173ea07b",
+        "666bf352b4a70bbdaff35573",
+        "692416d79986a2e9f4441b13",
+        "666bf4ed2bf5c24f3bc435d6",
+        "666bf72df1c59c08988806a9",
+        "666bfbd3f1c59c0898881897",
+        "666cf9ff99b03331e702b8e2"
+      ],
+      "productTypes": [
+        "6a044f99e04619810dad1aad"
+      ],
+      "parentId": null,
+      "description": "Check out our Print-on-demand Home and Living collection to start fulfilling top high quality product with the most competitive price",
+      "isDeleted": false,
+      "isDisplay": true,
+      "shortDescription": "&lt;p style=\"text-align:justify;\">&lt;span style=\"color:#000000;\">Deck your home this festive season with Printway’s Home and Living range that can be custom-made to any customers’ preference. Currently, Printway has over 30 types of products in its range, each of which is made very carefully and accurately. We provided various home accessories such as warm blankets, beautiful throw pillows, lovely wall hangings and beautiful kitchenware to make it as a perfect fit to any home.&nbsp;&lt;/span>&lt;/p>&lt;p style=\"text-align:justify;\">&lt;span style=\"color:#000000;\">These quality and variable products notify the sellers of their ability to make their customers’ houses homely. Through Printway’s hassle-free fulfillment services, you can provide your clients with the best shopping experience ensuring higher sales during the holiday season and other seasons of the year.&lt;/span>&lt;/p>&lt;h2 style=\"text-align:justify;\">&lt;span style=\"color:#000000;\">&lt;strong>What print-on-demand home &amp; living products does Printway offer?&lt;/strong>&lt;/span>&lt;/h2>&lt;p style=\"text-align:justify;\">&lt;span style=\"color:#000000;\">Home and living products include virtually every item that you can think of that can be printed on demand by Printway to fit your home decor. Examples of products ranges from Posters, Canvas Prints, Home Decor including pillows and rugs amongst others to update your living space. These typically include:&lt;/span>&lt;/p>&lt;ul>&lt;li>&lt;a href=\"https://printway.io/product-category/home-and-living/pillows-and-cases\">&lt;span style=\"color:#0000ff;\">&lt;strong>&lt;u>Print-on-Demand Pillows and Cases:&lt;/u>&lt;/strong>&lt;/span>&lt;/a>&lt;span style=\"color:#0000ff;\">&nbsp;&lt;/span>&lt;span style=\"color:#000000;\">Home &amp; Living Printway allows one to transform any living space through items such as pillows and cases. Made of different sizes and materials, these products contain clear, high-resolution prints to capture the essence of any design.&lt;/span>&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/home-and-living/home-decor\">&lt;span style=\"color:#0000ff;\">&lt;strong>&lt;u>Print-on-Demand Home Decor&lt;/u>&lt;/strong>&lt;u>:&lt;/u>&lt;/span>&lt;/a>&lt;span style=\"color:#000000;\"> Upgrade your home with personalized print-on-demand home accessories that embody the spirit of your home and your personality. Suggest your customers to buy home decor products from Printway to enable them have variety of stylish and challenging items to use at home.&lt;/span>&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/home-and-living/stationery\">&lt;span style=\"color:#0000ff;\">&lt;strong>&lt;u>Print-on-Demand Stationery:&lt;/u>&lt;/strong>&lt;/span>&lt;/a>&lt;span style=\"color:#000000;\"> Decorating your walls with classy prints or stylish tapestries, our material guarantees that the quality is noticeable. The options provided for customization include notebooks, planners, or calendars and each of them is highly customizable and has a beautiful design. Appropriate for home and commercial use as well as gift items, they assist in creating order and style in a home.&lt;/span>&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/home-and-living/ornaments\">&lt;span style=\"color:#0000ff;\">&lt;strong>&lt;u>Print-on-Demand Ornaments:&lt;/u>&lt;/strong>&lt;/span>&lt;/a>&lt;span style=\"color:#000000;\"> Today, these ornaments are produced in the likes of ceramic, wood, acrylic, glass, and others and can have specific designs as well as writings.&lt;/span>&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/home-and-living/canvas\">&lt;span style=\"color:#0000ff;\">&lt;strong>&lt;u>Print-on-Demand Canvas&lt;/u>&lt;/strong>&lt;/span>&lt;/a>&lt;span style=\"color:#000000;\">: These come in various sizes and design to complement your home as these are high quality specially designed canvases with bright clear prints.&lt;/span>&lt;/li>&lt;li>&lt;a href=\"https://printway.io/product-category/home-and-living/doormats\">&lt;span style=\"color:#0000ff;\">&lt;strong>&lt;u>Print-on-Demand Doormats&lt;/u>&lt;/strong>&lt;/span>&lt;/a>&lt;span style=\"color:#0000ff;\">:&lt;/span>&lt;span style=\"color:#000000;\"> Kick start an impressive first impression of your home or office with Printway doormats. There are many models and choice of color and pattern, which make them friendly, warm and comfortable in any gray and functional entrance hall.&lt;/span>&lt;/li>&lt;/ul>&lt;h2 style=\"text-align:justify;\">&lt;span style=\"color:#000000;\">&lt;strong>Benefits of using Printway’s print-on-demand home goods service&lt;/strong>&lt;/span>&lt;/h2>&lt;p style=\"text-align:justify;\">&lt;span style=\"color:#000000;\">The benefits that Printway provides for sellers gives many opportunities to those who are interested in growing their print on demand home &amp; living goods section.&lt;/span>&lt;/p>&lt;ul>&lt;li>&lt;span style=\"color:#000000;\">&lt;strong>Global Printing Network:&lt;/strong> Delight customers by serving orders prompt with Printway’s Vietnam-UK-USA-Australia-EU-China worldwide stations.&lt;/span>&lt;/li>&lt;li>&lt;span style=\"color:#000000;\">&lt;strong>Extensive Product Range&lt;/strong>: Over 350 products for your customization with excellent quality suitable for home decorations, accessories, clothing, and drinkware.&lt;/span>&lt;/li>&lt;li>&lt;span style=\"color:#000000;\">&lt;strong>No Minimum Order Quantity&lt;/strong>: Begin taking orders with no minimum orders, which makes Linear to suit all businesses in the market.&lt;/span>&lt;/li>&lt;li>&lt;span style=\"color:#000000;\">&lt;strong>Competitive Pricing:&nbsp;&lt;/strong>Get value offers with competitive base costs for products and on shipping.&lt;/span>&lt;/li>&lt;li>&lt;span style=\"color:#000000;\">&lt;strong>Seamless Platform Integration&lt;/strong>: Connect seamlessly with popular e-commerce platforms including amazon, Shopify, Etsy, woocommerce for effective operation.&lt;/span>&lt;/li>&lt;li>&lt;span style=\"color:#000000;\">&lt;strong>Fast Production and Shipping:&lt;/strong> The delights of the hotel include fast production time that ranges between 1 and 3 business days and convenient shipping methods such as UPS Expedited and UPS Saver.&lt;/span>&lt;/li>&lt;li>&lt;span style=\"color:#000000;\">&lt;strong>Custom Branding Options&lt;/strong>: Be punitive on your products and packaging as this helps to create a unique brand and exceed the expectations of customers.&lt;/span>&lt;/li>&lt;li>&lt;span style=\"color:#000000;\">&lt;strong>High Capacity Fulfillment:&lt;/strong> Use Printway’s production lines that can process as many as 120 000 orders in one day.&lt;/span>&lt;/li>&lt;li>&lt;span style=\"color:#000000;\">&lt;strong>Advanced Order Management:&lt;/strong> Integrate computerized techniques in production and order processing so that they could order to be processed without lots of fuss.&lt;/span>&lt;/li>&lt;li>&lt;span style=\"color:#000000;\">&lt;strong>Dedicated Support:&nbsp;&lt;/strong>Get guaranteed technical help at the right time to enhance productivity and meet the customers’ expectations.&lt;/span>&lt;/li>&lt;/ul>&lt;h2 style=\"text-align:justify;\">&lt;span style=\"color:#000000;\">&lt;strong>Start your print-on-demand home &amp; living business with Printway&lt;/strong>&lt;/span>&lt;/h2>&lt;p style=\"text-align:justify;\">&lt;span style=\"color:#000000;\">In case you are thinking of starting your print-on-demand&lt;/span>&lt;a href=\"https://printway.io/product-category/home-and-living\">&lt;span style=\"color:#000000;\"> home &amp; living &lt;/span>&lt;/a>&lt;span style=\"color:#000000;\">business, then you should choose Printway for a starting point. Printway offers you a dependable international print reproduction source, numerous product offerings, and distinguished pricing points. A wide range of services that we offer guarantee our clients smooth order and shipping processes so that you can only develop your enterprise. We provide easy integration with leading shopping carts, quick production, and delivery, and branded products to bring prominence to your business. Start your home and living business now at Printway and watch your business grow and become strong.&lt;/span>&lt;/p>&lt;p style=\"text-align:justify;\">&lt;span style=\"color:#000000;\">Print-on-demand home &amp; living products offer a fantastic opportunity to boost your sales throughout the year. By entering the print-on-demand market, you can capitalize on the growing demand for personalized home goods. Printway is ready to assist you in fulfilling all your home and living product needs.&lt;/span>&lt;/p>&lt;p>&lt;br>&nbsp;&lt;/p>",
+      "totalProductType": 707
+    }
+  ],
+  "category_flat": [
+    {
+      "_id": "666bc64cb4a70bbdaff2e49f",
+      "name": "Home and Living",
+      "slug": "home-and-living",
+      "image": "https://cdn.printway.io/lzi/666bc61b7ecd3a7dbd7c4624_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bc760c2d3c3a1f2ce4c22",
+      "name": "Ornaments",
+      "slug": "home-and-living/ornaments",
+      "image": "https://cdn.printway.io/lzi/666bc709685289e49dc931d9_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bea54ea944079618d0b7a",
+      "name": "Signs & Plaques",
+      "slug": "home-and-living/signs-and-plaques",
+      "image": "https://cdn.printway.io/lzi/666bea5178d2db5ef4677169_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": [],
+      "aliasName": "Signs & Plaques"
+    },
+    {
+      "_id": "666beb8175ea7273874ed607",
+      "name": "Lights",
+      "slug": "home-and-living/lights",
+      "image": "https://cdn.printway.io/lzi/666beae9685289e49dc93228_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666beebb95f58b8981875200",
+      "name": "Cards",
+      "slug": "home-and-living/cards",
+      "image": "https://cdn.printway.io/lzi/666beeadc7de2137b232a8bc_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bef6375ea7273874ee4f0",
+      "name": "Mugs",
+      "slug": "home-and-living/mugs",
+      "image": "https://cdn.printway.io/lzi/666bef5258d6931152f1784f_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bf0492bf5c24f3bc4233a",
+      "name": "Tumblers",
+      "slug": "home-and-living/tumblers",
+      "image": "https://cdn.printway.io/lzi/666bf00c6f6f60a4a4a7d07c_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bf1992bf5c24f3bc42867",
+      "name": "Water Bottles",
+      "slug": "home-and-living/water-bottles",
+      "image": "https://cdn.printway.io/lzi/666bf18fc7de2137b232a8cc_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bf289c2d3c3a1f2ceace7",
+      "name": "Blankets",
+      "slug": "home-and-living/blankets",
+      "image": "https://cdn.printway.io/lzi/666bf25b58d6931152f1785a_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bf352b4a70bbdaff35573",
+      "name": "Toys & Games",
+      "slug": "home-and-living/toys-and-games",
+      "image": "https://cdn.printway.io/lzi/666bf31c58d6931152f17860_800x800.jpeg",
+      "aliasName": "Toys & Games",
+      "metaKeywords": [],
+      "googleIndex": false
+    },
+    {
+      "_id": "666bf46675ea7273874ef893",
+      "name": "Beddings",
+      "slug": "home-and-living/beddings",
+      "image": "https://cdn.printway.io/lzi/666bf45c58d6931152f17869_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bf4ed2bf5c24f3bc435d6",
+      "name": "Floor & Rugs",
+      "slug": "home-and-living/floor-and-rugs",
+      "image": "https://cdn.printway.io/lzi/666bf4e4fe70ca4a4572b9dc_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": [],
+      "aliasName": "Floor & Rugs"
+    },
+    {
+      "_id": "666bf72df1c59c08988806a9",
+      "name": "Outdoor & Gardening",
+      "slug": "home-and-living/outdoor-and-gardening",
+      "image": "https://cdn.printway.io/lzi/666bf7006f6f60a4a4a7d09d_800x800.jpeg",
+      "aliasName": "Outdoor & Gardening",
+      "metaKeywords": [],
+      "googleIndex": false
+    },
+    {
+      "_id": "666bf8b2c2d3c3a1f2cec5cf",
+      "name": "Accessories",
+      "slug": "accessories",
+      "image": "https://cdn.printway.io/lzi/666bf7e8e9f8ecbc0656be49_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bf95a2bf5c24f3bc449dd",
+      "name": "Phone Accessories",
+      "slug": "accessories/phone-accessories",
+      "image": "https://cdn.printway.io/lzi/666bf94a6f6f60a4a4a7d0a6_800x800.jpeg",
+      "aliasName": "Phone Accessories",
+      "metaKeywords": [],
+      "googleIndex": false
+    },
+    {
+      "_id": "666bf9e72bf5c24f3bc44bf2",
+      "name": "Hats",
+      "slug": "accessories/hats",
+      "image": "https://cdn.printway.io/lzi/666bf9d57ecd3a7dbd7c46b9_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bfaa095f58b8981878f33",
+      "name": "Keychains",
+      "slug": "accessories/keychains",
+      "image": "https://cdn.printway.io/lzi/666bfa3be9f8ecbc0656be5a_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bfb14c2d3c3a1f2ced070",
+      "name": "Bookmarks",
+      "slug": "accessories/bookmarks",
+      "image": "https://cdn.printway.io/lzi/666bfb09d4a94a3fe38a085a_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bfbd3f1c59c0898881897",
+      "name": "Pet Supplies",
+      "slug": "home-and-living/pet-supplies",
+      "image": "https://cdn.printway.io/lzi/666bfbae78d2db5ef46771b9_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": [],
+      "aliasName": "Pet Supplies"
+    },
+    {
+      "_id": "666bfd2fea944079618d5bc9",
+      "name": "Car accessories",
+      "slug": "accessories/car-accessories",
+      "image": "https://cdn.printway.io/lzi/666bfd1078d2db5ef46771c5_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666bfedd2bf5c24f3bc46394",
+      "name": "Beauty Accessories",
+      "slug": "accessories/beauty-accessories",
+      "image": "https://cdn.printway.io/lzi/666bfeca685289e49dc9328d_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c0034ea944079618d6af2",
+      "name": "Packaging",
+      "slug": "accessories/packaging",
+      "image": "https://cdn.printway.io/lzi/666c002ad4a94a3fe38a0883_800x800.jpg"
+    },
+    {
+      "_id": "666c00f42bf5c24f3bc46a99",
+      "name": "Men's Clothing",
+      "slug": "mens-clothing",
+      "image": "https://cdn.printway.io/lzi/666c00e33dea86065a84db26_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666c07612bf5c24f3bc48ab9",
+      "name": "T-shirts",
+      "slug": "mens-clothing/t-shirts",
+      "image": "https://cdn.printway.io/lzi/666c053878d2db5ef46771e6_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666c0822ea944079618d91c0",
+      "name": "Sweatshirts",
+      "slug": "mens-clothing/sweatshirts",
+      "image": "https://cdn.printway.io/lzi/666c07fde69b8bbeda864bc4_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666c0907c2d3c3a1f2cf0c0e",
+      "name": "Hoodies",
+      "slug": "mens-clothing/hoodies",
+      "image": "https://cdn.printway.io/lzi/666c08a76f96e33ccef7c7f1_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c099ff1c59c0898885755",
+      "name": "Tank-tops",
+      "slug": "mens-clothing/tank-tops",
+      "image": "https://cdn.printway.io/lzi/666c0983c7de2137b232a96b_800x800.jpeg"
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c0a0fb4a70bbdaff3b5e7",
+      "name": "Polo Shirts",
+      "slug": "mens-clothing/polo-shirts",
+      "image": "https://cdn.printway.io/lzi/666c09ff1aaea85d5aeba796_800x800.jpeg"
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c0ae32bf5c24f3bc4994c",
+      "name": "Long Sleeve T-shirts",
+      "slug": "mens-clothing/long-sleeve-t-shirts",
+      "image": "https://cdn.printway.io/lzi/666c0ac4e69b8bbeda864bd0_800x800.jpeg",
+      "aliasName": ""
+    },
+    {
+      "_id": "666c0b8895f58b898187e654",
+      "name": "Jackets & Coats",
+      "slug": "mens-clothing/jackets-and-coats",
+      "image": "https://cdn.printway.io/lzi/666c0b62c7de2137b232a97b_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c0c46f1c59c0898886562",
+      "name": "Bottoms",
+      "slug": "mens-clothing/bottoms",
+      "image": "https://cdn.printway.io/lzi/666c0c027ecd3a7dbd7c4760_800x800.jpeg"
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c0d8cb4a70bbdaff3c8f5",
+      "name": "Shoes",
+      "slug": "accessories/shoes",
+      "image": "https://cdn.printway.io/lzi/666c0ccf6f96e33ccef7c809_800x800.jpeg"
+    },
+    {
+      "_id": "666c0f3eb4a70bbdaff3d05d",
+      "name": "Women's Clothing",
+      "slug": "womens-clothing",
+      "image": "https://cdn.printway.io/lzi/666c0e896f96e33ccef7c815_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666c105575ea7273874f71ca",
+      "name": "Women's T-shirts",
+      "slug": "womens-clothing/womens-t-shirts",
+      "image": "https://cdn.printway.io/lzi/666c0fcf58d6931152f178ef_800x800.jpeg",
+      "aliasName": "T-shirts",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666c136c2bf5c24f3bc4b6b5",
+      "name": "Women's Sweatshirts",
+      "slug": "womens-clothing/womens-sweatshirts",
+      "image": "https://cdn.printway.io/lzi/666c18d81aaea85d5aeba819_800x800.jpg",
+      "aliasName": "Sweatshirts",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666c1522b4a70bbdaff3dfbd",
+      "name": "Women's Hoodies",
+      "slug": "womens-clothing/womens-hoodies",
+      "image": "https://cdn.printway.io/lzi/666c18e7d4a94a3fe38a08ed_800x800.jpg",
+      "aliasName": "Hoodies",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c1584b4a70bbdaff3e16c",
+      "name": "Women's Tank-tops",
+      "slug": "womens-clothing/womens-tank-tops",
+      "image": "https://cdn.printway.io/lzi/666c1576fe70ca4a4572bb1f_800x800.jpeg",
+      "aliasName": "Tank-tops"
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c1850ea944079618dcccf",
+      "name": "Women's Long Sleeve T-shirts",
+      "slug": "womens-clothing/womens-long-sleeve-t-shirts",
+      "image": "https://cdn.printway.io/lzi/666c184c7ecd3a7dbd7c47cd_800x800.jpg",
+      "aliasName": "Long Sleeve T-shirts"
+    },
+    {
+      "_id": "666c1974f1c59c0898888eb1",
+      "name": "Women's Jackets & Coats",
+      "slug": "womens-clothing/womens-jackets-and-coats",
+      "image": "https://cdn.printway.io/lzi/666c19726f6f60a4a4a7d135_800x800.jpeg",
+      "aliasName": "Jackets & Coats",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c19f4ea944079618dd0a7",
+      "name": "Dresses",
+      "slug": "womens-clothing/dresses",
+      "image": "https://cdn.printway.io/lzi/666c19e76f96e33ccef7c846_800x800.jpeg"
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c1a68c2d3c3a1f2cf4adc",
+      "name": "Women's Bottoms",
+      "slug": "womens-clothing/womens-bottoms",
+      "image": "https://cdn.printway.io/lzi/666c1a4de69b8bbeda864c14_800x800.jpeg",
+      "aliasName": "Bottoms"
+    },
+    {
+      "_id": "666c1b1ab4a70bbdaff3f540",
+      "name": "Kid's Clothing",
+      "slug": "kids-clothing",
+      "image": "https://cdn.printway.io/lzi/666c1b083dea86065a84db98_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c1bbaf1c59c08988892f3",
+      "name": "Kid's T-shirts",
+      "slug": "kids-clothing/kids-t-shirts",
+      "image": "https://cdn.printway.io/lzi/666c1b711aaea85d5aeba824_800x800.jpeg",
+      "aliasName": "T-shirts"
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c1c43c2d3c3a1f2cf4df6",
+      "name": "Kid's Hoodies",
+      "slug": "kids-clothing/kids-hoodies",
+      "image": "https://cdn.printway.io/lzi/666c1c4078d2db5ef467723f_800x800.jpeg",
+      "aliasName": "Hoodies"
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c1cedf1c59c089888960f",
+      "name": "Kid's Sweatshirts",
+      "slug": "kids-clothing/kids-sweatshirts",
+      "image": "https://cdn.printway.io/lzi/666c1cd37ecd3a7dbd7c47dd_800x800.jpeg",
+      "aliasName": "Sweatshirts"
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c1f1195f58b8981883d94",
+      "name": "Baby bodysuits",
+      "slug": "kids-clothing/baby-bodysuits",
+      "image": "https://cdn.printway.io/lzi/666c1d81d4a94a3fe38a08fe_800x800.jpeg"
+    },
+    {
+      "googleIndex": false,
+      "metaKeywords": [],
+      "_id": "666c1fca75ea7273874fa1e9",
+      "name": "Kid's Jackets & Coats",
+      "slug": "kids-clothing/kids-jackets-and-coats",
+      "image": "https://cdn.printway.io/lzi/666c1fa91aaea85d5aeba86b_800x800.jpeg",
+      "aliasName": "Jackets & Coats"
+    },
+    {
+      "_id": "666c2127f1c59c0898889ecd",
+      "name": "Bags",
+      "slug": "accessories/bags",
+      "image": "https://cdn.printway.io/lzi/666c20eec7de2137b232aa04_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666c2380ea944079618dec10",
+      "name": "Home Decor",
+      "slug": "home-and-living/home-decor",
+      "image": "https://cdn.printway.io/lzi/666c21a71aaea85d5aeba892_800x800.jpeg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "666cf9ff99b03331e702b8e2",
+      "name": "Kitchen & Dining",
+      "slug": "home-and-living/kitchen-and-dining",
+      "image": "https://cdn.printway.io/lzi/666cf8553dea86065a84dc9a_800x800.jpeg",
+      "aliasName": "Kitchen & Dining",
+      "metaKeywords": [],
+      "googleIndex": false
+    },
+    {
+      "_id": "66792ac9a49d4478e2fa7843",
+      "name": "Pillows & Cases",
+      "slug": "home-and-living/pillows-and-cases",
+      "image": "https://cdn.printway.io/lzi/66792aa53dc433cb00c60574_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "667933f4a49d4478e2faa050",
+      "name": "Office & Stationery",
+      "slug": "accessories/office-and-stationery",
+      "image": "https://cdn.printway.io/lzi/667933be33c0855e70d98efb_800x800.jpg",
+      "aliasName": "Office & Stationery",
+      "metaKeywords": [],
+      "googleIndex": false
+    },
+    {
+      "_id": "66c8394d865a7fa48c42ea8d",
+      "name": "Sports",
+      "slug": "accessories/sports",
+      "image": "https://cdn.printway.io/lzi/66c837e8bcf0143a08f002e4_800x800.jpg",
+      "aliasName": "Sports",
+      "metaKeywords": [],
+      "googleIndex": false
+    },
+    {
+      "_id": "68ccdf43518d16677803d8bc",
+      "name": "Materials",
+      "aliasName": "Materials",
+      "slug": "materials",
+      "image": "https://cdn.printway.io/lzi/68ccdedc5b1f5719079149ff_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": [
+        "print on demand materials"
+      ],
+      "metaDescription": "Bring your designs to life on a wide range of premium materials. Printway offers high-quality printing on wood, acrylic, metal, leather, ceramic, and glass"
+    },
+    {
+      "_id": "68cce25e9480646fe85fb1c5",
+      "name": "Wood",
+      "aliasName": "Wood",
+      "slug": "materials/wood",
+      "image": "https://cdn.printway.io/lzi/68cce01eb9a2576be0ff9224_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": [
+        "print on demand wood"
+      ],
+      "metaDescription": "Create timeless and rustic products with Print on Demand Wood. Printway offers high-quality wood printing for home décor, gifts, and keepsakes—delivering d"
+    },
+    {
+      "_id": "68cce36409d6c36df5716bf1",
+      "name": "Acrylic",
+      "aliasName": "Acrylic",
+      "slug": "materials/acrylic",
+      "image": "https://cdn.printway.io/lzi/68cce2e32df48a25e14df360_800x800.png",
+      "googleIndex": false,
+      "metaKeywords": [
+        "print on demand acrylic"
+      ],
+      "metaDescription": "Start selling with Print on Demand Acrylic today and turn your designs into high-quality, modern products that your customers will proudly display and cher"
+    },
+    {
+      "_id": "68ccfad0927e38df41296a54",
+      "name": "Ceramic",
+      "aliasName": "Ceramic",
+      "slug": "materials/ceramic",
+      "image": "https://cdn.printway.io/lzi/68ccfa5316ccbb2a383be4a8_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": [
+        "Print on demand ceramic"
+      ],
+      "metaDescription": "Start creating your unique collection of print on demand ceramic items today with Printway-and give your customers beautiful, lasting products they’ll cher"
+    },
+    {
+      "_id": "68ccfb8ef104449ccef7a196",
+      "name": "Glass",
+      "aliasName": "Glass",
+      "slug": "materials/glass",
+      "image": "https://cdn.printway.io/lzi/68ccfae32df48a25e14df3ed_800x800.png",
+      "googleIndex": false,
+      "metaKeywords": [
+        "print on demand glass product"
+      ],
+      "metaDescription": "Start building your collection of print on demand glass products today and offer timeless pieces that blend function, beauty, and personalization."
+    },
+    {
+      "_id": "68ccff62518d166778063883",
+      "name": "Leather",
+      "aliasName": "Leather",
+      "slug": "materials/leather",
+      "image": "https://cdn.printway.io/lzi/68ccfe77e0f0363b7f78382c_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": [
+        "print on demand leather"
+      ],
+      "metaDescription": "Start fulfilling print on demand leather products today with Printway and give your customers the perfect mix of premium quality and personalization."
+    },
+    {
+      "_id": "68cd00521e86988c19a178f2",
+      "name": "Wood and Acrylic",
+      "aliasName": "Wood and Acrylic",
+      "slug": "materials/wood-and-acrylic",
+      "image": "https://cdn.printway.io/lzi/68cd0021e0f0363b7f783872_800x800.png",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "68cd018b9480646fe8615733",
+      "name": "Metal",
+      "aliasName": "Metal",
+      "slug": "materials/metal",
+      "image": "https://cdn.printway.io/lzi/68cd007d5b1f571907914c5a_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": [
+        "print on demand metal products"
+      ],
+      "metaDescription": "Start fulfilling print on demand metal products today with Printway and give your customers the perfect blend of quality, customization, and timeless desig"
+    },
+    {
+      "_id": "68cd0423927e38df412a5819",
+      "name": "Aluminum",
+      "aliasName": "Aluminum",
+      "slug": "materials/aluminum",
+      "image": "https://cdn.printway.io/lzi/68cd037e5b1f571907914cba_800x800.png",
+      "googleIndex": false,
+      "metaKeywords": [
+        "Print on Demand Aluminum"
+      ],
+      "metaDescription": "Start fulfilling print on demand aluminum products today with Printway and take advantage of a growing market that values quality and creativity."
+    },
+    {
+      "_id": "692412cf5628386d8832aa6f",
+      "name": "Suncatchers",
+      "aliasName": "Suncatchers",
+      "slug": "home-and-living/suncatchers",
+      "image": "https://cdn.printway.io/lzi/692412c05ec453c23d62e21a_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "692413d35628386d883316ca",
+      "name": "Wall Arts",
+      "aliasName": "Wall Arts",
+      "slug": "home-and-living/wall-arts",
+      "image": "https://cdn.printway.io/lzi/6924137bd5c06f4e39a59d24_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "6924142c9986a2e9f44351a8",
+      "name": "Picture Frames & Displays",
+      "aliasName": "Picture Frames & Displays",
+      "slug": "home-and-living/picture-frames-and-displays",
+      "image": "https://cdn.printway.io/lzi/6924142bf1b061c1a9037171_800x800.png",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "6924154da1de5569b21bfeaf",
+      "name": "Calendar",
+      "aliasName": "Calendar",
+      "slug": "home-and-living/calendar",
+      "image": "https://cdn.printway.io/lzi/69241547d5c06f4e39a59d9f_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "6924158e5628386d883383ec",
+      "name": "Keepsakes",
+      "aliasName": "Keepsakes",
+      "slug": "home-and-living/keepsakes",
+      "image": "https://cdn.printway.io/lzi/6924158c5ec453c23d62e2fd_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "692415f34544a865173ea07b",
+      "name": "Stockings & Holders",
+      "aliasName": "Stockings & Holders",
+      "slug": "home-and-living/stockings-and-holders",
+      "image": "https://cdn.printway.io/lzi/692415f283869d7001d7e0d7_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "692416d79986a2e9f4441b13",
+      "name": "Bathroom",
+      "aliasName": "Bathroom",
+      "slug": "home-and-living/bathroom",
+      "image": "https://cdn.printway.io/lzi/692416d5d61e26555658901b_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "6a08374d2f2ac7dd60d38815",
+      "name": "Men's Jersey",
+      "aliasName": "Men's Jersey",
+      "slug": "mens-clothing/mens-jersey",
+      "image": "https://cdn.printway.io/lzi/6a0837498532abf963a044ab_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "6a0838222f2ac7dd60d3898c",
+      "name": "Hawaiian Shirt",
+      "aliasName": "Hawaiian Shirt",
+      "slug": "mens-clothing/hawaiian-shirt",
+      "image": "https://cdn.printway.io/lzi/6a08381f70ebd38935eca7bc_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "6a084805a5e12e4a5756ba59",
+      "name": "Jersey",
+      "aliasName": "Jersey",
+      "slug": "kids-clothing/jersey",
+      "image": "https://cdn.printway.io/lzi/6a084801ef69dfdda0c34ee1_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "6a084dacd94dd74ddc931946",
+      "name": "Women's Jersey",
+      "aliasName": "Jersey",
+      "slug": "womens-clothing/womens-jersey",
+      "image": "https://cdn.printway.io/lzi/6a084d858532abf963a046a3_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "6a0af0e9e8206824e2d705ce",
+      "name": "Others",
+      "aliasName": "Others",
+      "slug": "accessories/others",
+      "image": "https://cdn.printway.io/lzi/6a0af0e4de58fc8ab7117264_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "6a27714ebfc65eb02b80a1a0",
+      "name": "Swimwear",
+      "aliasName": "Swimwear",
+      "slug": "womens-clothing/swimwear",
+      "image": "https://cdn.printway.io/lzi/6a27714841f50de79d254d06_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    },
+    {
+      "_id": "6a293be04c58e216f310536d",
+      "name": "Kid Hawaiian Shirt",
+      "aliasName": "Kid Hawaiian Shirt",
+      "slug": "kids-clothing/kid-hawaiian-shirt",
+      "image": "https://cdn.printway.io/lzi/6a293b9f13ccd65dedce866c_800x800.jpg",
+      "googleIndex": false,
+      "metaKeywords": []
+    }
+  ],
+  "locations": {
+    "location": [
+      {
+        "_id": "64365b21c2d6e5b3175a91d6",
+        "name": "Made in EU",
+        "code": "EU",
+        "logoUrl": "https://cdn.printway.io/lzi/64c262bceb3f7dd2852da012_800x800.png",
+        "country": "European"
+      },
+      {
+        "_id": "642bfbfe3d90dada14523e2e",
+        "name": "Made in AU",
+        "code": "AU",
+        "logoUrl": "https://cdn.printway.io/lzi/64c262c49db7ba874ea9a877_800x800.png",
+        "country": "Australia"
+      },
+      {
+        "_id": "640572cb6d933e2c5d8df6f5",
+        "name": "Made in UK",
+        "code": "GB",
+        "country": "United Kingdom",
+        "logoUrl": "https://cdn.printway.io/lzi/64c262cb010d4fd1509e28bf_800x800.png"
+      },
+      {
+        "_id": "64055ad76d933e2c5d8dd764",
+        "name": "Made in VN",
+        "code": "VN",
+        "country": "Vietnam",
+        "logoUrl": "https://cdn.printway.io/lzi/64c262d451b7fb6a50fc9100_800x800.png"
+      },
+      {
+        "_id": "64055ac26d933e2c5d8dd733",
+        "name": "Made in US",
+        "code": "US",
+        "country": "United States",
+        "logoUrl": "https://cdn.printway.io/lzi/64c262dcf62aafc523b4ad3d_800x800.png"
+      },
+      {
+        "_id": "64055aac6d933e2c5d8dd6d1",
+        "name": "Made in CN",
+        "code": "CN",
+        "country": "China",
+        "logoUrl": "https://cdn.printway.io/lzi/64c262e392a3ebd8e1d0991a_800x800.png"
+      }
+    ],
+    "categories": [
+      {
+        "_id": "666bc64cb4a70bbdaff2e49f",
+        "name": "Home and Living",
+        "slug": "home-and-living",
+        "image": "https://cdn.printway.io/lzi/666bc61b7ecd3a7dbd7c4624_800x800.jpeg",
+        "subCategories": [
+          {
+            "_id": "666beebb95f58b8981875200",
+            "name": "Cards",
+            "slug": "home-and-living/cards"
+          },
+          {
+            "_id": "666bc760c2d3c3a1f2ce4c22",
+            "name": "Ornaments",
+            "slug": "home-and-living/ornaments"
+          },
+          {
+            "_id": "666beb8175ea7273874ed607",
+            "name": "Lights",
+            "slug": "home-and-living/lights"
+          },
+          {
+            "_id": "666bef6375ea7273874ee4f0",
+            "name": "Mugs",
+            "slug": "home-and-living/mugs"
+          },
+          {
+            "_id": "666bf0492bf5c24f3bc4233a",
+            "name": "Tumblers",
+            "slug": "home-and-living/tumblers"
+          },
+          {
+            "_id": "666bf1992bf5c24f3bc42867",
+            "name": "Water Bottles",
+            "slug": "home-and-living/water-bottles"
+          },
+          {
+            "_id": "666bf289c2d3c3a1f2ceace7",
+            "name": "Blankets",
+            "slug": "home-and-living/blankets"
+          },
+          {
+            "_id": "666bf46675ea7273874ef893",
+            "name": "Beddings",
+            "slug": "home-and-living/beddings"
+          },
+          {
+            "_id": "66792ac9a49d4478e2fa7843",
+            "name": "Pillows & Cases",
+            "slug": "home-and-living/pillows-and-cases"
+          },
+          {
+            "_id": "666c2380ea944079618dec10",
+            "name": "Home Decor",
+            "slug": "home-and-living/home-decor"
+          },
+          {
+            "_id": "692412cf5628386d8832aa6f",
+            "name": "Suncatchers",
+            "aliasName": "Suncatchers",
+            "slug": "home-and-living/suncatchers"
+          },
+          {
+            "_id": "666bea54ea944079618d0b7a",
+            "name": "Signs & Plaques",
+            "slug": "home-and-living/signs-and-plaques",
+            "aliasName": "Signs & Plaques"
+          },
+          {
+            "_id": "692413d35628386d883316ca",
+            "name": "Wall Arts",
+            "aliasName": "Wall Arts",
+            "slug": "home-and-living/wall-arts"
+          },
+          {
+            "_id": "6924142c9986a2e9f44351a8",
+            "name": "Picture Frames & Displays",
+            "aliasName": "Picture Frames & Displays",
+            "slug": "home-and-living/picture-frames-and-displays"
+          },
+          {
+            "_id": "6924154da1de5569b21bfeaf",
+            "name": "Calendar",
+            "aliasName": "Calendar",
+            "slug": "home-and-living/calendar"
+          },
+          {
+            "_id": "6924158e5628386d883383ec",
+            "name": "Keepsakes",
+            "aliasName": "Keepsakes",
+            "slug": "home-and-living/keepsakes"
+          },
+          {
+            "_id": "692415f34544a865173ea07b",
+            "name": "Stockings & Holders",
+            "aliasName": "Stockings & Holders",
+            "slug": "home-and-living/stockings-and-holders"
+          },
+          {
+            "_id": "666bf352b4a70bbdaff35573",
+            "name": "Toys & Games",
+            "slug": "home-and-living/toys-and-games",
+            "aliasName": "Toys & Games"
+          },
+          {
+            "_id": "692416d79986a2e9f4441b13",
+            "name": "Bathroom",
+            "aliasName": "Bathroom",
+            "slug": "home-and-living/bathroom"
+          },
+          {
+            "_id": "666bf4ed2bf5c24f3bc435d6",
+            "name": "Floor & Rugs",
+            "slug": "home-and-living/floor-and-rugs",
+            "aliasName": "Floor & Rugs"
+          },
+          {
+            "_id": "666bf72df1c59c08988806a9",
+            "name": "Outdoor & Gardening",
+            "slug": "home-and-living/outdoor-and-gardening",
+            "aliasName": "Outdoor & Gardening"
+          },
+          {
+            "_id": "666bfbd3f1c59c0898881897",
+            "name": "Pet Supplies",
+            "slug": "home-and-living/pet-supplies",
+            "aliasName": "Pet Supplies"
+          },
+          {
+            "_id": "666cf9ff99b03331e702b8e2",
+            "name": "Kitchen & Dining",
+            "slug": "home-and-living/kitchen-and-dining",
+            "aliasName": "Kitchen & Dining"
+          }
+        ]
+      },
+      {
+        "_id": "666bf8b2c2d3c3a1f2cec5cf",
+        "name": "Accessories",
+        "slug": "accessories",
+        "image": "https://cdn.printway.io/lzi/666bf7e8e9f8ecbc0656be49_800x800.jpeg",
+        "subCategories": [
+          {
+            "_id": "666bfaa095f58b8981878f33",
+            "name": "Keychains",
+            "slug": "accessories/keychains"
+          },
+          {
+            "_id": "666bfb14c2d3c3a1f2ced070",
+            "name": "Bookmarks",
+            "slug": "accessories/bookmarks"
+          },
+          {
+            "_id": "666bfd2fea944079618d5bc9",
+            "name": "Car accessories",
+            "slug": "accessories/car-accessories"
+          },
+          {
+            "_id": "666bfedd2bf5c24f3bc46394",
+            "name": "Beauty Accessories",
+            "slug": "accessories/beauty-accessories"
+          },
+          {
+            "_id": "666c0034ea944079618d6af2",
+            "name": "Packaging",
+            "slug": "accessories/packaging"
+          },
+          {
+            "_id": "666c2127f1c59c0898889ecd",
+            "name": "Bags",
+            "slug": "accessories/bags"
+          },
+          {
+            "_id": "666bf9e72bf5c24f3bc44bf2",
+            "name": "Hats",
+            "slug": "accessories/hats"
+          },
+          {
+            "_id": "666c0d8cb4a70bbdaff3c8f5",
+            "name": "Shoes",
+            "slug": "accessories/shoes"
+          },
+          {
+            "_id": "667933f4a49d4478e2faa050",
+            "name": "Office & Stationery",
+            "slug": "accessories/office-and-stationery",
+            "aliasName": "Office & Stationery"
+          },
+          {
+            "_id": "666bf95a2bf5c24f3bc449dd",
+            "name": "Phone Accessories",
+            "slug": "accessories/phone-accessories",
+            "aliasName": "Phone Accessories"
+          },
+          {
+            "_id": "66c8394d865a7fa48c42ea8d",
+            "name": "Sports",
+            "slug": "accessories/sports",
+            "aliasName": "Sports"
+          },
+          {
+            "_id": "6a0af0e9e8206824e2d705ce",
+            "name": "Others",
+            "aliasName": "Others",
+            "slug": "accessories/others"
+          }
+        ]
+      },
+      {
+        "_id": "666c00f42bf5c24f3bc46a99",
+        "name": "Men's Clothing",
+        "slug": "mens-clothing",
+        "image": "https://cdn.printway.io/lzi/666c00e33dea86065a84db26_800x800.jpeg",
+        "subCategories": [
+          {
+            "_id": "666c07612bf5c24f3bc48ab9",
+            "name": "T-shirts",
+            "slug": "mens-clothing/t-shirts"
+          },
+          {
+            "_id": "666c0822ea944079618d91c0",
+            "name": "Sweatshirts",
+            "slug": "mens-clothing/sweatshirts"
+          },
+          {
+            "_id": "666c0907c2d3c3a1f2cf0c0e",
+            "name": "Hoodies",
+            "slug": "mens-clothing/hoodies"
+          },
+          {
+            "_id": "666c099ff1c59c0898885755",
+            "name": "Tank-tops",
+            "slug": "mens-clothing/tank-tops"
+          },
+          {
+            "_id": "666c0a0fb4a70bbdaff3b5e7",
+            "name": "Polo Shirts",
+            "slug": "mens-clothing/polo-shirts"
+          },
+          {
+            "_id": "666c0b8895f58b898187e654",
+            "name": "Jackets & Coats",
+            "slug": "mens-clothing/jackets-and-coats"
+          },
+          {
+            "_id": "666c0c46f1c59c0898886562",
+            "name": "Bottoms",
+            "slug": "mens-clothing/bottoms"
+          },
+          {
+            "_id": "666c0ae32bf5c24f3bc4994c",
+            "name": "Long Sleeve T-shirts",
+            "slug": "mens-clothing/long-sleeve-t-shirts",
+            "aliasName": ""
+          },
+          {
+            "_id": "6a08374d2f2ac7dd60d38815",
+            "name": "Men's Jersey",
+            "aliasName": "Men's Jersey",
+            "slug": "mens-clothing/mens-jersey"
+          },
+          {
+            "_id": "6a0838222f2ac7dd60d3898c",
+            "name": "Hawaiian Shirt",
+            "aliasName": "Hawaiian Shirt",
+            "slug": "mens-clothing/hawaiian-shirt"
+          }
+        ]
+      },
+      {
+        "_id": "666c0f3eb4a70bbdaff3d05d",
+        "name": "Women's Clothing",
+        "slug": "womens-clothing",
+        "image": "https://cdn.printway.io/lzi/666c0e896f96e33ccef7c815_800x800.jpeg",
+        "subCategories": [
+          {
+            "_id": "666c19f4ea944079618dd0a7",
+            "name": "Dresses",
+            "slug": "womens-clothing/dresses"
+          },
+          {
+            "_id": "666c1584b4a70bbdaff3e16c",
+            "name": "Women's Tank-tops",
+            "slug": "womens-clothing/womens-tank-tops",
+            "aliasName": "Tank-tops"
+          },
+          {
+            "_id": "666c136c2bf5c24f3bc4b6b5",
+            "name": "Women's Sweatshirts",
+            "slug": "womens-clothing/womens-sweatshirts",
+            "aliasName": "Sweatshirts"
+          },
+          {
+            "_id": "666c1522b4a70bbdaff3dfbd",
+            "name": "Women's Hoodies",
+            "slug": "womens-clothing/womens-hoodies",
+            "aliasName": "Hoodies"
+          },
+          {
+            "_id": "666c1974f1c59c0898888eb1",
+            "name": "Women's Jackets & Coats",
+            "slug": "womens-clothing/womens-jackets-and-coats",
+            "aliasName": "Jackets & Coats"
+          },
+          {
+            "_id": "666c1a68c2d3c3a1f2cf4adc",
+            "name": "Women's Bottoms",
+            "slug": "womens-clothing/womens-bottoms",
+            "aliasName": "Bottoms"
+          },
+          {
+            "_id": "666c1850ea944079618dcccf",
+            "name": "Women's Long Sleeve T-shirts",
+            "slug": "womens-clothing/womens-long-sleeve-t-shirts",
+            "aliasName": "Long Sleeve T-shirts"
+          },
+          {
+            "_id": "666c105575ea7273874f71ca",
+            "name": "Women's T-shirts",
+            "slug": "womens-clothing/womens-t-shirts",
+            "aliasName": "T-shirts"
+          },
+          {
+            "_id": "6a084dacd94dd74ddc931946",
+            "name": "Women's Jersey",
+            "aliasName": "Jersey",
+            "slug": "womens-clothing/womens-jersey"
+          },
+          {
+            "_id": "6a27714ebfc65eb02b80a1a0",
+            "name": "Swimwear",
+            "aliasName": "Swimwear",
+            "slug": "womens-clothing/swimwear"
+          }
+        ]
+      },
+      {
+        "_id": "666c1b1ab4a70bbdaff3f540",
+        "name": "Kid's Clothing",
+        "slug": "kids-clothing",
+        "image": "https://cdn.printway.io/lzi/666c1b083dea86065a84db98_800x800.jpeg",
+        "subCategories": [
+          {
+            "_id": "666c1f1195f58b8981883d94",
+            "name": "Baby bodysuits",
+            "slug": "kids-clothing/baby-bodysuits"
+          },
+          {
+            "_id": "666c1bbaf1c59c08988892f3",
+            "name": "Kid's T-shirts",
+            "slug": "kids-clothing/kids-t-shirts",
+            "aliasName": "T-shirts"
+          },
+          {
+            "_id": "666c1c43c2d3c3a1f2cf4df6",
+            "name": "Kid's Hoodies",
+            "slug": "kids-clothing/kids-hoodies",
+            "aliasName": "Hoodies"
+          },
+          {
+            "_id": "666c1fca75ea7273874fa1e9",
+            "name": "Kid's Jackets & Coats",
+            "slug": "kids-clothing/kids-jackets-and-coats",
+            "aliasName": "Jackets & Coats"
+          },
+          {
+            "_id": "666c1cedf1c59c089888960f",
+            "name": "Kid's Sweatshirts",
+            "slug": "kids-clothing/kids-sweatshirts",
+            "aliasName": "Sweatshirts"
+          },
+          {
+            "_id": "6a084805a5e12e4a5756ba59",
+            "name": "Jersey",
+            "aliasName": "Jersey",
+            "slug": "kids-clothing/jersey"
+          },
+          {
+            "_id": "6a293be04c58e216f310536d",
+            "name": "Kid Hawaiian Shirt",
+            "aliasName": "Kid Hawaiian Shirt",
+            "slug": "kids-clothing/kid-hawaiian-shirt"
+          }
+        ]
+      },
+      {
+        "_id": "68ccdf43518d16677803d8bc",
+        "name": "Materials",
+        "aliasName": "Materials",
+        "slug": "materials",
+        "image": "https://cdn.printway.io/lzi/68ccdedc5b1f5719079149ff_800x800.jpg",
+        "subCategories": [
+          {
+            "_id": "68cce36409d6c36df5716bf1",
+            "name": "Acrylic",
+            "aliasName": "Acrylic",
+            "slug": "materials/acrylic"
+          },
+          {
+            "_id": "68ccfb8ef104449ccef7a196",
+            "name": "Glass",
+            "aliasName": "Glass",
+            "slug": "materials/glass"
+          },
+          {
+            "_id": "68cce25e9480646fe85fb1c5",
+            "name": "Wood",
+            "aliasName": "Wood",
+            "slug": "materials/wood"
+          },
+          {
+            "_id": "68ccfad0927e38df41296a54",
+            "name": "Ceramic",
+            "aliasName": "Ceramic",
+            "slug": "materials/ceramic"
+          },
+          {
+            "_id": "68ccff62518d166778063883",
+            "name": "Leather",
+            "aliasName": "Leather",
+            "slug": "materials/leather"
+          },
+          {
+            "_id": "68cd00521e86988c19a178f2",
+            "name": "Wood and Acrylic",
+            "aliasName": "Wood and Acrylic",
+            "slug": "materials/wood-and-acrylic"
+          },
+          {
+            "_id": "68cd018b9480646fe8615733",
+            "name": "Metal",
+            "aliasName": "Metal",
+            "slug": "materials/metal"
+          },
+          {
+            "_id": "68cd0423927e38df412a5819",
+            "name": "Aluminum",
+            "aliasName": "Aluminum",
+            "slug": "materials/aluminum"
+          }
+        ]
+      }
+    ]
+  },
+  "production_techniques": [
+    {
+      "_id": "6a3e59c635707b72580eecc4",
+      "name": "UV Printing",
+      "code": "UV"
+    },
+    {
+      "_id": "6a3e59c635707b72580eecc5",
+      "name": "Direct-to-film (DTF)",
+      "code": "DTF"
+    },
+    {
+      "_id": "6a3e59c635707b72580eecc6",
+      "name": "Direct-to-garment (DTG)",
+      "code": "DTG"
+    },
+    {
+      "_id": "6a3e59c635707b72580eecc7",
+      "name": "Sublimation",
+      "code": "sublimation"
+    },
+    {
+      "_id": "6a3e59c635707b72580eecc8",
+      "name": "Vinyl Heat Transfer",
+      "code": "VHT"
+    },
+    {
+      "_id": "6a3e59c635707b72580eecc9",
+      "name": "Digital Cylinder Printing",
+      "code": "DCP"
+    },
+    {
+      "_id": "6a3e59c635707b72580eecca",
+      "name": "Digital Printing",
+      "code": "DP"
+    },
+    {
+      "_id": "6a3e59c635707b72580eeccb",
+      "name": "Laser Cut",
+      "code": "LC"
+    },
+    {
+      "_id": "6a3e59c635707b72580eeccc",
+      "name": "Engraving",
+      "code": "EV"
+    }
+  ],
+  "category_urls_from_sitemap": [
+    "https://printway.io/product-category/home-and-living",
+    "https://printway.io/product-category/home-and-living/ornaments",
+    "https://printway.io/product-category/home-and-living/signs-and-plaques",
+    "https://printway.io/product-category/home-and-living/lights",
+    "https://printway.io/product-category/home-and-living/cards",
+    "https://printway.io/product-category/home-and-living/mugs",
+    "https://printway.io/product-category/home-and-living/tumblers",
+    "https://printway.io/product-category/home-and-living/water-bottles",
+    "https://printway.io/product-category/home-and-living/toys-and-games",
+    "https://printway.io/product-category/home-and-living/beddings",
+    "https://printway.io/product-category/home-and-living/floor-and-rugs",
+    "https://printway.io/product-category/home-and-living/outdoor-and-gardening",
+    "https://printway.io/product-category/accessories",
+    "https://printway.io/product-category/accessories/phone-accessories",
+    "https://printway.io/product-category/accessories/hats",
+    "https://printway.io/product-category/accessories/keychains",
+    "https://printway.io/product-category/accessories/bookmarks",
+    "https://printway.io/product-category/home-and-living/pet-supplies",
+    "https://printway.io/product-category/accessories/car-accessories",
+    "https://printway.io/product-category/accessories/beauty-accessories",
+    "https://printway.io/product-category/accessories/packaging",
+    "https://printway.io/product-category/mens-clothing",
+    "https://printway.io/product-category/mens-clothing/t-shirts",
+    "https://printway.io/product-category/mens-clothing/sweatshirts",
+    "https://printway.io/product-category/mens-clothing/hoodies",
+    "https://printway.io/product-category/mens-clothing/tank-tops",
+    "https://printway.io/product-category/mens-clothing/polo-shirts",
+    "https://printway.io/product-category/mens-clothing/long-sleeve-t-shirts",
+    "https://printway.io/product-category/mens-clothing/jackets-and-coats",
+    "https://printway.io/product-category/mens-clothing/bottoms",
+    "https://printway.io/product-category/accessories/shoes",
+    "https://printway.io/product-category/womens-clothing",
+    "https://printway.io/product-category/womens-clothing/womens-t-shirts",
+    "https://printway.io/product-category/womens-clothing/womens-sweatshirts",
+    "https://printway.io/product-category/womens-clothing/womens-hoodies",
+    "https://printway.io/product-category/womens-clothing/womens-tank-tops",
+    "https://printway.io/product-category/womens-clothing/womens-long-sleeve-t-shirts",
+    "https://printway.io/product-category/womens-clothing/womens-jackets-and-coats",
+    "https://printway.io/product-category/womens-clothing/dresses",
+    "https://printway.io/product-category/womens-clothing/womens-bottoms",
+    "https://printway.io/product-category/kids-clothing",
+    "https://printway.io/product-category/kids-clothing/kids-t-shirts",
+    "https://printway.io/product-category/kids-clothing/kids-hoodies",
+    "https://printway.io/product-category/kids-clothing/kids-sweatshirts",
+    "https://printway.io/product-category/kids-clothing/baby-bodysuits",
+    "https://printway.io/product-category/kids-clothing/kids-jackets-and-coats",
+    "https://printway.io/product-category/accessories/bags",
+    "https://printway.io/product-category/home-and-living/home-decor",
+    "https://printway.io/product-category/home-and-living/kitchen-and-dining",
+    "https://printway.io/product-category/home-and-living/pillows-and-cases",
+    "https://printway.io/product-category/accessories/office-and-stationery",
+    "https://printway.io/product-category/accessories/sports",
+    "https://printway.io/product-category/materials",
+    "https://printway.io/product-category/materials/wood",
+    "https://printway.io/product-category/materials/acrylic",
+    "https://printway.io/product-category/materials/ceramic",
+    "https://printway.io/product-category/materials/glass",
+    "https://printway.io/product-category/materials/leather",
+    "https://printway.io/product-category/materials/wood-and-acrylic",
+    "https://printway.io/product-category/materials/metal",
+    "https://printway.io/product-category/materials/aluminum",
+    "https://printway.io/product-category/home-and-living/suncatchers",
+    "https://printway.io/product-category/home-and-living/wall-arts",
+    "https://printway.io/product-category/home-and-living/picture-frames-and-displays",
+    "https://printway.io/product-category/home-and-living/calendar",
+    "https://printway.io/product-category/home-and-living/keepsakes",
+    "https://printway.io/product-category/home-and-living/stockings-and-holders",
+    "https://printway.io/product-category/home-and-living/bathroom",
+    "https://printway.io/product-category/mens-clothing/mens-jersey",
+    "https://printway.io/product-category/mens-clothing/hawaiian-shirt",
+    "https://printway.io/product-category/kids-clothing/jersey",
+    "https://printway.io/product-category/womens-clothing/womens-jersey",
+    "https://printway.io/product-category/accessories/others",
+    "https://printway.io/product-category/womens-clothing/swimwear",
+    "https://printway.io/product-category/kids-clothing/kid-hawaiian-shirt"
+  ]
+}
